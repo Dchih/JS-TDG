@@ -1,0 +1,17 @@
+{
+  "name": "JS-TDG",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:Dchih/JS-TDG.git",
+  "author": "Dchih <duzchih@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
+  }
+}
